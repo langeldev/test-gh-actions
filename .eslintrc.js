@@ -17,5 +17,10 @@ module.exports = {
     'vue',
   ],
   'rules': {
+    'max-len': 'off',
+    'comma-dangle': 'off',
+    'semi': 'off',
+    'arraysInObjects': 'off',
+    'object-curly-spacing': 'off',
   },
 };
