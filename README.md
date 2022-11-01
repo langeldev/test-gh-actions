@@ -1,3 +1,5 @@
+[![Deployment Pipeline](https://github.com/langeldev/test-gh-actions/actions/workflows/pipeline.yml/badge.svg)](https://github.com/langeldev/test-gh-actions/actions/workflows/pipeline.yml)
+
 # prueba
 
 ## Build Setup
